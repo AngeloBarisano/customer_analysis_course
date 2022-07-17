@@ -8,6 +8,7 @@ __pycache__/
 .bin
 .lib
 lib/ 
+Data
 
 pyvenv.cfg 
 
